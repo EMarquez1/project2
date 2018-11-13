@@ -49,6 +49,19 @@ background-color: beige;
   border: px Chocolate solid;
   border-radius: 15px;
 }
+.c {
+	grid-column-start: 1;
+	grid-column-end: 3;
+	grid-row-start: 1;
+	grid-row-end: 1;
+	border: 5px DarkGray solid;
+  width: 500px;
+  height: 200px;
+background-color: beige;
+  color: black;
+  border: px Chocolate solid;
+  border-radius: 15px;
+}
 .button {
 	border-radius: 20px;
 }
