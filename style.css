@@ -1,0 +1,54 @@
+body{
+	background-color: #ed4633
+}
+
+h1{
+	text-align: center;
+	color: #f4fff2;
+	font-family: 'Gloria Hallelujah', cursive;
+}
+
+body{
+	text-align: center;
+	
+}
+
+p {
+	font-size: 130%
+}
+.grid {
+  display: grid;
+ grid-template-columns: 1fr 1fr;
+ grid-row-gap: 10px;
+}
+
+.a{
+	grid-column-start: 1;
+	grid-column-end: 3;+
+	grid-row-start: 1;
+	grid-row-end: 1;
+	border: 0px DarkGray solid;
+  width: 230px;
+  height: 100px;
+
+background-color: beige;
+  color: black;
+  border: px Chocolate solid;
+border-radius: 20px;
+}
+.b {
+	grid-column-start: 1;
+	grid-column-end: 3;
+	grid-row-start: 1;
+	grid-row-end: 1;
+	border: 5px DarkGray solid;
+  width: 500px;
+  height: 200px;
+background-color: beige;
+  color: black;
+  border: px Chocolate solid;
+  border-radius: 15px;
+}
+.button {
+	border-radius: 20px;
+}
