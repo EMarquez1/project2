@@ -1,6 +1,4 @@
-body{
-	background-color: #ed4633
-}
+
 
 h1{
 	text-align: center;
@@ -64,4 +62,7 @@ background-color: beige;
 }
 .button {
 	border-radius: 20px;
+	font-family: Helvetica;
 }
+
+
